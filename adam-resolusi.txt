@@ -2,3 +2,5 @@ Adam resolusi
 - Konsisten untuk belajar ngoding
 - Membuat project untuk ditunjukkan pada PT anekapay
 - Belajar GIT & GITHUB
+
+- Otw kerja di PT anekapay
