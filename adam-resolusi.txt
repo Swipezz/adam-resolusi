@@ -4,3 +4,5 @@ Adam resolusi
 - Belajar GIT & GITHUB
 
 - Udah kerja
+
+- Udah bisa make Github
